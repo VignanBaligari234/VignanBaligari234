@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vignan Baligari
-- 👀 I’m interested in DevOps,Docker,Kubernetes
-- 🌱 I’m currently learning Ansible, Terraform, AWS DevOps,Azure DevOps, GoogleCloud DevOps
+- 👀 I’m interested in Open Source Contribution and Cloud Native Tools and Technologies 
+- 🌱 Breathing DevOps and Aws 
 - 💞️ I’m looking to collaborate on Remote Work Jobs
 - 📫 How to reach me @my Twitter Account @ViggiAtU
 
